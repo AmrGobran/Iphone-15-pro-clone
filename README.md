@@ -24,4 +24,3 @@ This markdown summary provides an overview of the project, its features, technol
 You can customize it further based on your specific implementation details.
 
 ![UI screenshot](./src/assets/screenshots/apple-clone.png)
-# Iphone-15-pro-clone
