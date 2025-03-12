@@ -20,7 +20,4 @@ This project is a clone of the iPhone 15 Pro website, built using modern web tec
 - **GSAP**: Animation library for creating smooth and complex animations.
 - **Vite**: Fast build tool for modern web development.
 
-This markdown summary provides an overview of the project, its features, technologies used.
-You can customize it further based on your specific implementation details.
-
 ![UI screenshot](./src/assets/screenshots/apple-clone.png)
